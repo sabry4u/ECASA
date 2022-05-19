@@ -5,14 +5,14 @@ from doctest import DebugRunner
 from email.mime import image
 from itertools import count
 from logging import PlaceHolder
-from turtle import home
+#from turtle import home
 from numpy import average, empty, true_divide
 import pandas as pd
 import streamlit as st
 from PIL import Image
-from turtle import home
-import tkinter as TK
-import _tkinter
+#from turtle import home
+#import tkinter as TK
+#import _tkinter
 
 image = Image.open('Ecasa.jpg')
 lvl_rtng = [1,2,3,4,5]
